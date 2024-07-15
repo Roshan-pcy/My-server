@@ -1,0 +1,10 @@
+*{
+    font-size: small;
+}
+.container {
+    width: 80%;
+    margin: 0 auto; /* Centers the container */
+    padding: 20px;
+    background-color: #ed5959;
+    border: 1px solid #ddd;
+}
